@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html log="pt-br">
+    <head>
+        <title> Resenha Homem-Aranha 2 </title>
+        <meta charset="UTF-8">
+        <p style="color:rgb(64, 64, 240); "> FILME </p>
+        <style>
+            p{
+                color:aquamarine;
+            }
+        </style>
+        <link rel=" stylesheets" href="style.css" type="text/css"
+    </head>
+    <body>
+        <h1> O espetacular Homem-Aranha 2 </h1>
+        <br>
+        <p> A morte de Gwen Stacy é uma narrativa essencial sobre as consequências do amor e da responsabilidade. Ela prova que, mesmo com grandes poderes, o Homem-Aranha não pode evitar todas as tragédias, tornando-o um dos heróis mais humanos da Marvel. </p>
+        <br>
+        <h2> Melhores coisas: </h2>
+        <ul>
+            <li> O filme tem um final triste mas necessário </li>
+            <li> O Erro de Peter </li>
+            <li> Foi o melhor homem Homem-Aranha </li>
+        </ul>
+    </body>
+</html>
+   
